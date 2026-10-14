@@ -1,17 +1,23 @@
-**open-source-first** software research and engineering company. We build reliable infrastructure and systems software, with a strong focus on the **CNCF cloud native ecosystem**.
+# Ryro
 
-We partner with engineering teams to investigate hard problems, design pragmatic architectures, and deliver production-ready software.
+### Open source. Built to last.
 
-## Open source projects
+Ryro is an **open-source-first software research and engineering company**. We build infrastructure and systems software, and work alongside engineering teams to make their infrastructure easier to understand, operate, and scale.
 
-Our projects are developed in the open. We believe infrastructure is stronger when its design, tradeoffs, and implementation can be inspected and improved by the community.
+Our work centers on **Linux, Kubernetes, and the CNCF cloud-native ecosystem**. But the problem comes before the stack. We help teams improve what already works, investigate what does not, and choose architectures that fit their product, their business, and the people who will maintain them.
+
+## Partnership without dependency
+
+We do not want to be the only people who understand your infrastructure. The code, automation, infrastructure definitions, and documentation created for your operation should remain accessible and usable by your team.
+
+**Stay with Ryro because the partnership adds value not because leaving is difficult.**
 
 ---
 
 <div align="center">
 
-**Building critical infrastructure or solving a hard systems problem?**
+**Your infrastructure should help your product grow.**
 
-[Explore our work](https://github.com/ryro-hq?tab=repositories) · Talk to us about consulting and engineering partnerships
+[Explore our projects](https://github.com/ryro-hq?tab=repositories) · Talk to us about consulting and engineering partnerships
 
 </div>
