@@ -1,8 +1,4 @@
-# Ryro
-
-### Open source. Built to last.
-
-Ryro is an **open-source-first software research and engineering company**. We build infrastructure and systems software, and work alongside engineering teams to make their infrastructure easier to understand, operate, and scale.
+**open-source-first software research and engineering company**. We build infrastructure and systems software, and work alongside engineering teams to make their infrastructure easier to understand, operate, and scale.
 
 Our work centers on **Linux, Kubernetes, and the CNCF cloud-native ecosystem**. But the problem comes before the stack. We help teams improve what already works, investigate what does not, and choose architectures that fit their product, their business, and the people who will maintain them.
 
